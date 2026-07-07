@@ -1,5 +1,9 @@
 # 📊 Church Event Analytics Dashboard
 
+## Dashboard Preview
+
+![Attendance Chart](attendance_chart.png)
+
 ## Overview
 
 This project analyzes church event attendance using Python. It cleans raw data, merges multiple datasets, calculates key performance indicators (KPIs), generates an Excel report, and creates charts to help church leadership understand attendance trends and visitor engagement.
